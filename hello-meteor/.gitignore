@@ -1,2 +1,6 @@
 node_modules/
 .idea
+../.idea/hello_meteor.iml
+../.idea/jsLibraryMappings.xml
+../.idea/libraries/
+../.idea/workspace.xml
